@@ -1,0 +1,22 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+main img {
+  width: 320px;
+  float: right;
+  margin-left: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+main iframe {
+  width: 320px;
+  float: right;
+  margin-left: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
